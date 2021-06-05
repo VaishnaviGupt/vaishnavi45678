@@ -1,0 +1,20 @@
+package com.amcicustomer.enums;
+
+public enum ConfigProperties {
+    URL,
+    BROWSER,
+    PAGETITLE,
+    VALIDEMAILID,
+    VALIDPASSWORD,
+    DASHBOARDURL,
+    OVERRIDEREPORTS,
+    PASSEDSTEPSCREENSHOTS,
+    FAILEDSTEPSCREENSHOTS,
+    SKIPEDSTEPSCREENSHOTS,
+    RETRYFAILDTESTS,
+    RUNMODE,
+    ASSETNAME,
+
+
+
+}
